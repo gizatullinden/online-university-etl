@@ -87,7 +87,7 @@
 После завершения загрузки данных в PostgreSQL агрегированный отчёт
 передаётся во внешние сервисы:
 
-- Google Sheets;
+- [Google Sheets — результаты ETL](https://docs.google.com/spreadsheets/d/1R9rf82SZzekYtCUcLI3sh_YGspsWkAeI2wruYAuYfOM/edit?usp=sharing);
 - электронная почта.
 Ошибки при работе с внешними сервисами записываются в лог.
 
