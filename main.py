@@ -129,7 +129,7 @@ def main(start_datetime, end_datetime):
     if start_date == end_date:
         report_period = start_date
     else:
-        report_period = f"{start_date} — {end_date}"
+        report_period = f"{start_date} – {end_date}"
 
     report = aggregate_data(
         transformed_data,
